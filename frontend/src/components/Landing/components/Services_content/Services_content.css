@@ -1,0 +1,28 @@
+.services_content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 25px;
+}
+.services_content img{
+    height: 200px;
+    width:  200px;
+    object-fit: scale-down;
+}
+.services_content p{
+    margin: 0;
+    text-align: center;
+}
+.services_content__about{
+    font-size: 1.5rem;
+}
+.mar img{
+    margin: auto;
+    margin-left: 3.6rem;
+}
+.maar img{
+    margin-right: 2rem;
+}

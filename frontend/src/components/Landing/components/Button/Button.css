@@ -1,0 +1,14 @@
+.button{
+    outline: none;
+    border: none;
+    background: #F4511F;
+    border-radius: 8px;
+    padding: 1rem;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+    transition: all 0.2s ease-in;
+}
+.button:hover{
+    background-color: #9c2905;
+}

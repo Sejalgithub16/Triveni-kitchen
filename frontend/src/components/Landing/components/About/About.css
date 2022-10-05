@@ -1,0 +1,21 @@
+.about{
+    color: black;
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-top: 5rem;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Poppins', sans-serif;
+}
+.about__content{
+    margin: auto 0;
+}
+.about__content p{
+    margin: 3rem 0;
+    width: 600px;
+}
+.about img{
+    margin: auto 0;
+    position: relative;
+    right: -68px;
+}
